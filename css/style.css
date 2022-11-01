@@ -1,0 +1,101 @@
+body {
+    background: #3b3b3b;
+    font-family: 'Cascadia Mono ExtraLight', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+}
+
+html, body {
+  width: 100%;
+  height: 90%;
+}
+
+h2,h3.h4 {
+  font-style: normal;
+  font-weight: bold;
+  letter-spacing: 0px;
+}
+
+h1 {
+  color: #bababa;
+  font-size: 45px;
+}
+
+h2 {
+  color: #bababa;
+  font-size: 35px;
+  margin-top: 0px;
+}
+
+h3 {
+  color: #bababa;
+  font-size: 30px;
+}
+
+h4 {
+  color: #bababa;
+  font-size: 20px;
+}
+p {
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: normal;
+  letter-spacing: 0.2px;
+}
+a {
+  color: #7bd1a2;
+  font-size: 20px;
+}
+
+/*---------------------------------------
+  Buttons               
+-----------------------------------------*/
+
+.main-title {
+  margin: 0;
+  padding-bottom: 32px;
+}
+
+#main {
+  position: relative;
+  padding-top: 30px;
+  background: #3b3b3b;
+  text-align: center;
+}
+
+.main-button {
+  background: #3b3b3b;
+  border-radius: 0px;
+  padding: 42px 22px;
+  position: relative;
+  top: 0;
+  -webkit-transition: all ease-in-out 0.4s;
+  transition: all ease-in-out 0.4s;
+}
+
+.main-button:hover {
+  background: #406d54;
+  top: 5px;
+}
+.main-button:hover h3,
+ .main-button:hover h4,
+ .main-button:hover p,
+ .main-button:hover .tabs,
+ .main-button:hover a {
+  color: #bababa;
+}
+
+.tabs { display: none; }
+.tabs:not(:checked) + label + * { display: none; }
+ 
+/* тут редактируем вид кнопки */
+.tabs:not(:checked) + label,
+.tabs:checked + label {
+font-style: normal;
+font-weight: bold;
+letter-spacing: 0px;
+display: inline-block;
+color: #bababa;
+font-size: 30px;
+cursor: pointer;
+}
