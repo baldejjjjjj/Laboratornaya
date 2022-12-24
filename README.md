@@ -35,4 +35,5 @@
 
 Ответ на экзаменационный билет доступен по ссылке:
 [билет №3](https://github.com/stankin/inet-2022/wiki/exam03)
-[commit revisions](https://github.com/stankin/inet-2022/wiki/exam03/_compare/6d5dcb31dc47e95aa89ea881db4c338fa405d005...3f96a0b7ed6b61c69a2aace96fec79138df73b9a) 
+
+[Ссылка на сравнение ревизий](https://github.com/stankin/inet-2022/wiki/exam03/_compare/6d5dcb31dc47e95aa89ea881db4c338fa405d005...3f96a0b7ed6b61c69a2aace96fec79138df73b9a) 
