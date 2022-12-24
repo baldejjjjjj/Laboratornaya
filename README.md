@@ -17,7 +17,7 @@
 
 ### Работа над проектом ведется в команде.
 1. Репозиторий проекта доступен по ссылке: [Чисто и тОчка](https://github.com/MakyHaky/ChistoTochka)
-2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://github.com/)
+2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://makyhaky.github.io/ChistoTochka/)
 
 ## ✅ Лабораторная работа № 3
 Настройка локальной сети передачи данных: [Отчёт](https://disk.yandex.ru/i/NtlzFX5_-MiWpA)
